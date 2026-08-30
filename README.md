@@ -4,6 +4,8 @@
 
 This is part of my journey learning **Unreal Engine 5**, with a particular focus on learning and experimenting with **Blueprints** and **3D Modelling**.
 
+![Marble Run Gameplay](marblerun1.gif)
+
 ## Planned Improvements
 
 A list of improvements I'm currently working on:
