@@ -10,11 +10,11 @@ This is part of my journey learning **Unreal Engine 5**, with a particular focus
 
 A list of improvements I'm currently working on:
 
-- Implement a simple UI for starting and quitting the game
-- Show elapsed time on the HUD
+- ~~Implement a simple UI for starting and quitting the game~~ ✅
+- ~~Show elapsed time on the HUD~~ ✅
 - Add more levels
 - Improve ball and peg collision
-- Ambient Sound?
+- ~~Ambient Sound?~~ ✅
 
 ## Known Issues
 
