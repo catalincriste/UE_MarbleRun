@@ -14,6 +14,7 @@ A list of improvements I'm currently working on:
 - Show elapsed time on the HUD
 - Add more levels
 - Improve ball and peg collision
+- Ambient Sound?
 
 ## Known Issues
 
